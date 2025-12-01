@@ -16,17 +16,17 @@
     <ul>
       <li>HTML, CSS, JavaScript ✅</li>
       <li>Bootstrap</li>
-      <li>React with Redux ⚛️</li>
-      <li>React Native</li>
+      <li>React </li>
+  
     </ul>
   </li>
 </ul>
 
-<h3 align="left">🌱 Currently learning / Next Goals</h3>
+<h3 align="left">🌱 Currently learning</h3>
 
 <ul>
   <li>Backend Development (Full-Stack) 🔥</li>
-  <li>AI & Machine Learning 💡</li>
+ 
 </ul>
 
 ---
