@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠 Tools & Technologies
+### 🛠 Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3" />
